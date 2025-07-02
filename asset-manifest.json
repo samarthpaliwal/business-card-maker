@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/business-card-maker/static/css/main.e6c13ad2.css",
+    "main.js": "/business-card-maker/static/js/main.5297c867.js",
+    "index.html": "/business-card-maker/index.html",
+    "main.e6c13ad2.css.map": "/business-card-maker/static/css/main.e6c13ad2.css.map",
+    "main.5297c867.js.map": "/business-card-maker/static/js/main.5297c867.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5297c867.js"
+  ]
+}
