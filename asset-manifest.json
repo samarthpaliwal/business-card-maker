@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/business-card-maker/static/css/main.305efae8.css",
-    "main.js": "/business-card-maker/static/js/main.5dc721f7.js",
+    "main.css": "/business-card-maker/static/css/main.d1b91dcf.css",
+    "main.js": "/business-card-maker/static/js/main.ff00ceaf.js",
     "static/js/977.61d34035.chunk.js": "/business-card-maker/static/js/977.61d34035.chunk.js",
     "static/js/455.638a1ff4.chunk.js": "/business-card-maker/static/js/455.638a1ff4.chunk.js",
     "index.html": "/business-card-maker/index.html",
-    "main.305efae8.css.map": "/business-card-maker/static/css/main.305efae8.css.map",
-    "main.5dc721f7.js.map": "/business-card-maker/static/js/main.5dc721f7.js.map",
+    "main.d1b91dcf.css.map": "/business-card-maker/static/css/main.d1b91dcf.css.map",
+    "main.ff00ceaf.js.map": "/business-card-maker/static/js/main.ff00ceaf.js.map",
     "977.61d34035.chunk.js.map": "/business-card-maker/static/js/977.61d34035.chunk.js.map",
     "455.638a1ff4.chunk.js.map": "/business-card-maker/static/js/455.638a1ff4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.305efae8.css",
-    "static/js/main.5dc721f7.js"
+    "static/css/main.d1b91dcf.css",
+    "static/js/main.ff00ceaf.js"
   ]
 }
